@@ -1,0 +1,26 @@
+.container{
+    width: 70%;
+    margin: auto;
+    margin-top: 2%;
+    text-align: center;
+  }
+  
+  th{
+    padding: 10px;
+  }
+  
+  img{
+    width: 40px;
+    height: auto;
+  }
+  
+  .row {
+    display: flex;  
+    background-color: lightblue;
+    padding: 20px;
+    /* border-style: solid; */
+  }
+  
+  .col {
+    flex: 1;       
+  }
